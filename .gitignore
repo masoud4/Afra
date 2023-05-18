@@ -1,0 +1,6 @@
+.ccls-cache/
+.clangd/
+.git/
+.vim/
+Afra
+compile_commands.json
